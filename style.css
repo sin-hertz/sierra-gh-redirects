@@ -1,3 +1,22 @@
+@font-face{
+  font-family: fantasqueSansMono;
+  src: url(fantasquesansmono-regular.otf)
+}
+
 * {
-  background-color:green;
+ font-family: fantasqueSansMono;
+ color: white;
+ background-color: black;
+}
+
+p {
+  font-size: 1.5rem
+}
+
+li {
+  font-size: 1.5rem
+}
+
+img {
+  width: 20rem;
 }
